@@ -1,0 +1,28 @@
+/**************************************************************************
+* AUTHORS       : Nisha Davankar
+* Student IDs   : 1045735
+* Assignment    : 6
+* CLASS         : CS1C
+* SECTION       : MW 5pm
+* DUE DATE      : 03/04/19
+**************************************************************************/
+
+This program calculates the perimeter and area of squares and triangles.
+This program uses virtual functions in the shape class to calculate 
+the perimeter and area of objects. This function also read in a name
+from the command line argument. It prints out the second letter of each 
+argument.
+
+Perimeter and Area
+Square Perimeter: 35.52
+Square Area: 78.8544
+Triangle Perimeter: 30
+Triangle Area: 30
+
+Command line arguments
+c:\users\nisha\documents\visual studio 2017\Projects\CS 1C Assignment 6\Debug\CS 1C Assignment 6.exe
+Nisha Davankar
+
+Second letter of first and last name
+i a
+Press any key to continue . . .
