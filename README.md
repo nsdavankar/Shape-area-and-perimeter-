@@ -1,2 +1,2 @@
 # Shape-area-and-perimeter-
-TThis program uses virtual functions in the shape class to calculate the perimeter and area of squares and triangles
+This program uses virtual functions in the shape class to calculate the perimeter and area of squares and triangles
